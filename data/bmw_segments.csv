@@ -1,0 +1,16 @@
+Segment,Year,Revenue_Bn_EUR,EBIT_Bn_EUR,EBIT_Margin_Pct
+Automotive,2021,111.2,9.5,8.5
+Financial_Services,2021,29.6,2.5,8.4
+Motorcycles,2021,2.6,0.41,15.8
+Automotive,2022,119.8,10.4,8.7
+Financial_Services,2022,33.1,2.9,8.8
+Motorcycles,2022,2.9,0.44,15.2
+Automotive,2023,123.2,9.8,7.9
+Financial_Services,2023,40.8,3.1,7.6
+Motorcycles,2023,2.8,0.43,15.4
+Automotive,2024,117.3,7.4,6.3
+Financial_Services,2024,44.3,3.0,6.8
+Motorcycles,2024,2.9,0.4,13.8
+Automotive,2025,112.4,7.4,6.6
+Financial_Services,2025,46.1,3.1,6.7
+Motorcycles,2025,3.1,0.44,14.2
