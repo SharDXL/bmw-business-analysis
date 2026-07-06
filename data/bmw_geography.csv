@@ -1,26 +1,36 @@
-Region,Year,Revenue_Bn_EUR,Revenue_Pct
-Germany,2021,12.1,10.9
-Rest_of_Europe,2021,34.2,30.7
-North_America,2021,25.6,23.0
-China,2021,22.9,20.6
-RoW,2021,16.4,14.8
-Germany,2022,13.5,11.3
-Rest_of_Europe,2022,37.8,31.6
-North_America,2022,27.4,22.9
-China,2022,25.6,21.4
-RoW,2022,15.5,12.9
-Germany,2023,14.1,11.5
-Rest_of_Europe,2023,39.5,32.1
-North_America,2023,30.2,24.5
-China,2023,24.4,19.8
-RoW,2023,15.0,12.2
-Germany,2024,13.3,11.3
-Rest_of_Europe,2024,37.1,31.6
-North_America,2024,28.9,24.6
-China,2024,22.6,19.2
-RoW,2024,15.4,13.1
-Germany,2025,12.8,11.4
-Rest_of_Europe,2025,36.4,32.4
-North_America,2025,28.2,25.1
-China,2025,21.6,19.2
-RoW,2025,13.4,11.9
+Region,Year,Revenue_m_EUR,Revenue_Pct,Source
+Germany,2021,12100,10.9,Estimated - verify against BMW AR2021 Note 46
+China,2021,24990,22.5,Estimated - verify against BMW AR2021 Note 46
+USA,2021,25600,23.0,Estimated - verify against BMW AR2021 Note 46
+Rest_of_Europe,2021,31390,28.2,Estimated - verify against BMW AR2021 Note 46
+Rest_of_Asia,2021,11280,10.1,Estimated - verify against BMW AR2021 Note 46
+Rest_of_Americas,2021,4100,3.7,Estimated - verify against BMW AR2021 Note 46
+Other_regions,2021,1740,1.6,Estimated - verify against BMW AR2021 Note 46
+Germany,2022,15413,10.8,BMW AR2023 Note 46 (geographical segment)
+China,2022,41881,29.4,BMW AR2023 Note 46 (geographical segment)
+USA,2022,28751,20.2,BMW AR2023 Note 46 (geographical segment)
+Rest_of_Europe,2022,36032,25.3,BMW AR2023 Note 46 (geographical segment)
+Rest_of_Asia,2022,12805,9.0,BMW AR2023 Note 46 (geographical segment)
+Rest_of_Americas,2022,4941,3.5,BMW AR2023 Note 46 (geographical segment)
+Other_regions,2022,2787,2.0,BMW AR2023 Note 46 (geographical segment)
+Germany,2023,18829,12.1,BMW AR2023 Note 46 (geographical segment)
+China,2023,40833,26.3,BMW AR2023 Note 46 (geographical segment)
+USA,2023,31845,20.5,BMW AR2023 Note 46 (geographical segment)
+Rest_of_Europe,2023,39848,25.6,BMW AR2023 Note 46 (geographical segment)
+Rest_of_Asia,2023,15689,10.1,BMW AR2023 Note 46 (geographical segment)
+Rest_of_Americas,2023,5386,3.5,BMW AR2023 Note 46 (geographical segment)
+Other_regions,2023,3068,2.0,BMW AR2023 Note 46 (geographical segment)
+Germany,2024,19845,13.9,BMW AR2025 Note 46 (geographical segment)
+China,2024,31786,22.3,BMW AR2025 Note 46 (geographical segment)
+USA,2024,27048,19.0,BMW AR2025 Note 46 (geographical segment)
+Rest_of_Europe,2024,40935,28.8,BMW AR2025 Note 46 (Europa 60780 minus Deutschland 19845)
+Rest_of_Asia,2024,14772,10.4,BMW AR2025 Note 46 (Asien 46558 minus China 31786)
+Rest_of_Americas,2024,4893,3.4,BMW AR2025 Note 46 (Amerika 31941 minus USA 27048)
+Other_regions,2024,3101,2.2,BMW AR2025 Note 46 (geographical segment)
+Germany,2025,18487,13.9,BMW AR2025 Note 46 (geographical segment)
+China,2025,24810,18.6,BMW AR2025 Note 46 (geographical segment)
+USA,2025,26978,20.2,BMW AR2025 Note 46 (geographical segment)
+Rest_of_Europe,2025,41154,30.8,BMW AR2025 Note 46 (Europa 59641 minus Deutschland 18487)
+Rest_of_Asia,2025,13740,10.3,BMW AR2025 Note 46 (Asien 38550 minus China 24810)
+Rest_of_Americas,2025,5025,3.8,BMW AR2025 Note 46 (Amerika 32003 minus USA 26978)
+Other_regions,2025,3259,2.4,BMW AR2025 Note 46 (geographical segment)

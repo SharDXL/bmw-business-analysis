@@ -1,16 +1,16 @@
-Segment,Year,Revenue_Bn_EUR,EBIT_Bn_EUR,EBIT_Margin_Pct
-Automotive,2021,111.2,9.5,8.5
-Financial_Services,2021,29.6,2.5,8.4
-Motorcycles,2021,2.6,0.41,15.8
-Automotive,2022,119.8,10.4,8.7
-Financial_Services,2022,33.1,2.9,8.8
-Motorcycles,2022,2.9,0.44,15.2
-Automotive,2023,123.2,9.8,7.9
-Financial_Services,2023,40.8,3.1,7.6
-Motorcycles,2023,2.8,0.43,15.4
-Automotive,2024,117.3,7.4,6.3
-Financial_Services,2024,44.3,3.0,6.8
-Motorcycles,2024,2.9,0.4,13.8
-Automotive,2025,112.4,7.4,6.6
-Financial_Services,2025,46.1,3.1,6.7
-Motorcycles,2025,3.1,0.44,14.2
+Segment,Year,Revenue_Bn_EUR,EBIT_Bn_EUR,EBIT_Margin_Pct,Source
+Automotive,2021,111.2,9.5,8.5,Estimated - verify against BMW AR2021 segment note
+Financial_Services,2021,29.6,2.5,8.4,Estimated - verify against BMW AR2021 segment note
+Motorcycles,2021,2.6,0.41,15.8,Estimated - verify against BMW AR2021 segment note
+Automotive,2022,119.8,10.4,8.7,Estimated - verify against BMW AR2022 segment note
+Financial_Services,2022,33.1,2.9,8.8,Estimated - verify against BMW AR2022 segment note
+Motorcycles,2022,2.9,0.44,15.2,Estimated - verify against BMW AR2022 segment note
+Automotive,2023,132.3,9.8,7.4,BMW AR2023 Note 46 (total segment revenue 132277m); EBIT estimated - verify
+Financial_Services,2023,36.2,3.1,8.6,BMW AR2023 Note 46 (total segment revenue 36227m); EBIT estimated - verify
+Motorcycles,2023,3.2,0.43,13.4,BMW AR2023 Note 46 (total segment revenue 3214m); EBIT estimated - verify
+Automotive,2024,124.9,7.9,6.3,BMW AR2025 Note 46 (total revenue 124917m; EBIT/Segmentergebnis 7893m)
+Financial_Services,2024,38.6,2.5,6.6,BMW AR2025 Note 46 (total revenue 38562m; Segmentergebnis 2538m)
+Motorcycles,2024,3.2,0.20,6.1,BMW AR2025 Note 46 (total revenue 3220m; Segmentergebnis 198m)
+Automotive,2025,117.6,6.3,5.3,BMW AR2025 Note 46 (total revenue 117557m; Segmentergebnis 6259m)
+Financial_Services,2025,39.8,2.4,6.0,BMW AR2025 Note 46 (total revenue 39806m; Segmentergebnis 2401m)
+Motorcycles,2025,3.1,0.18,5.7,BMW AR2025 Note 46 (total revenue 3143m; Segmentergebnis 178m)

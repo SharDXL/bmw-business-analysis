@@ -1,6 +1,6 @@
 # BMW Group Business Analysis
 
-**Company-level deep-dive into BMW AG — P4 of the German Auto equity research roadmap**
+**Company-level deep-dive into BMW AG**
 
 `BMW.DE` | FY2021–FY2025 | Live market data via yfinance
 
@@ -8,10 +8,7 @@
 
 ## What This Is
 
-A four-chart Python project that analyses BMW Group as a standalone investment — moving from the industry layer (P2: German Auto Deep-Dive) down to the company level. The core question: **is BMW's structural quality (brand, financial services, Neue Klasse pipeline) sufficient to justify a re-rating from today's depressed multiples?**
-
-Project roadmap context:
-**P2 Industry Deep-Dive → P4 BMW Business Analysis (this) → P5 3-Statement Model → P7 DCF → P9 Full Equity Research Report**
+A four-chart Python project that analyses BMW Group as a standalone investment. The core question: **is BMW's structural quality (brand, financial services, Neue Klasse pipeline) sufficient to justify a re-rating from today's depressed multiples?**
 
 ---
 
@@ -26,17 +23,19 @@ Project roadmap context:
 
 ---
 
-## Key Findings (FY2025)
+## Key Findings (FY2025 actuals; market data last refreshed 06 July 2026 — updates automatically, see below)
 
-**Business mix:** BMW Group has three segments. Automotive (cars + after-sales) generates ~70% of revenue but carries all the EV transition risk. Financial Services (BMW Bank + leasing) contributes ~29% of revenue and acts as a stable margin cushion — critical context often missed by analysts focused only on the car business.
+**Business mix:** BMW Group has three segments. Automotive (cars + after-sales) generates the large majority of revenue but carries all the EV transition risk. Financial Services (BMW Bank + leasing) acts as a stable margin cushion — critical context often missed by analysts focused only on the car business.
 
-**Geography:** China peaked at ~21% of revenue in FY2022 and has been declining since. FY2025 China share is ~19.2%, the lowest since FY2019. This is structural, not cyclical — local Chinese brands (BYD, Li Auto, Huawei-backed) have permanently taken share. Management's response is accelerating Neue Klasse in China.
+**Geography:** China revenue share is 18.6% in the latest data, down from its FY2022 peak. This is structural, not cyclical — local Chinese brands (BYD, Li Auto, Huawei-backed) have permanently taken share. Management's response is accelerating Neue Klasse in China.
 
-**EV transition:** BMW leads German OEMs at 20.6% BEV mix (FY2025), up from 1.9% in FY2020. The Neue Klasse platform (dedicated BEV architecture, new battery technology, launching 2026) is expected to bring BEV economics closer to ICE margins — the key missing piece in the bull case.
+**EV transition:** BMW leads German OEMs at 17.9% BEV mix (FY2025, 442k units) — this figure now traces to BMW's own annual report rather than an earlier unlabeled estimate. The Neue Klasse platform (dedicated BEV architecture, new battery technology, launching 2026) is expected to bring BEV economics closer to ICE margins — the key missing piece in the bull case.
 
-**Valuation:** At P/E 5.6x and EV/EBITDA 9.5x, BMW trades at a near-trough multiple. The implied assumption is that Neue Klasse fails and China erosion continues. Any recovery in either catalyst re-rates the stock.
+**FY2025 actuals (corrected — see P3 for the full model):** Group revenue EUR 160.5bn, Group EBIT EUR 8.9bn (5.5% margin), Automotive segment margin 5.3% — below the 8.5% figure an earlier draft of this analysis had assumed for FY2026E. BMW's own FY2026 guidance points to a 4-6% Automotive margin, not the more optimistic recovery this project originally modelled.
 
-**Note on Net Debt:** BMW's reported net debt (~€96bn) includes BMW Bank's entire lending book (auto loans, leases). This is standard for OEMs with captive finance arms and not comparable to industrial net debt. Automotive segment net cash is positive — BMW has no funding risk.
+**Valuation:** At the latest refresh, BMW trades at EV/EBITDA 9.2x and P/E 5.4x (TTM) — check `charts/01_segment_performance.html` and the live run output for the current snapshot rather than quoting a fixed multiple, since both move with the share price.
+
+**Note on Net Debt:** BMW's reported net debt includes BMW Bank's entire lending book (auto loans, leases). This is standard for OEMs with captive finance arms and not comparable to industrial net debt. Automotive segment net cash is positive — BMW has no funding risk.
 
 ---
 
